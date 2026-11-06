@@ -6,7 +6,7 @@ concurrency:
   cancel-in-progress: true
 env:
   KS_ALIAS: pmk
-  APP_ID: com.sched.app.private
+  APP_ID: com.sched.personal
   APP_NAME: "ПМК Личное"
 jobs:
   build:
